@@ -1,18 +1,18 @@
 ================================
 
-http://groincoin.com
+http://CanadaEhCoin.tk
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2013-2014 groincoin Developers
+Copyright (c) 2013-2014 CanadaEhCoin Developers
 
 ================================
 
-![GitHub Logo](http://groincoin.com/wp-content/uploads/2014/04/GoldGNCCoin-185x185.png "groincoin Logo")
+
 
 Building
 --------
 Linux:
 
-	Git clone https://github.com/GroinGuy/groincoin
+	Git clone https://github.com/CanadaEhCoin/CanadaEhCoin
 	cd groincoin/src
 	make -f makefile.unix USE_UPNP=-
 
@@ -21,7 +21,7 @@ Linux:
 License
 -------
 
-groincoin is released under the terms of the MIT license. See `COPYING` for more
+CanadaEhCoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
@@ -65,7 +65,7 @@ Unit tests for the core code are in `src/test/`. To compile and run them:
 
 Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
-    qmake BITCOIN_QT_TEST=1 -o Makefile.test bitcoin-qt.pro
+    qmake CanadaEhCoin_QT_TEST=1 -o Makefile.test CanadaEhCoin-qt.pro
     make -f Makefile.test
     ./groincoin-qt_test
 
