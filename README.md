@@ -13,7 +13,7 @@ Building
 Linux:
 
 	Git clone https://github.com/CanadaEhCoin/CanadaEhCoin
-	cd groincoin/src
+	cd CanadaEhCoin/src
 	make -f makefile.unix USE_UPNP=-
 
 
@@ -30,7 +30,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the groincoin
+If it is a simple/trivial/non-controversial change, then one of the CanadaEhCoin
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -43,8 +43,8 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/bitcoin/bitcoin/tags) are created
-regularly to indicate new official, stable release versions of groincoin.
+completely stable. [Tags](https://github.com/CanadaEhCoin/CanadaEhCoin/tags) are created
+regularly to indicate new official, stable release versions of CanadaEhCoin.
 
 Testing
 -------
