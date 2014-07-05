@@ -67,5 +67,5 @@ Unit tests for the GUI code are in `src/qt/test/`. To compile and run them:
 
     qmake CanadaEhCoin_QT_TEST=1 -o Makefile.test CanadaEhCoin-qt.pro
     make -f Makefile.test
-    ./groincoin-qt_test
+    ./CanadaEhCoin-qt_test
 
